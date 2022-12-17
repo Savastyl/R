@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "savasrg" {
-  name     = "savas5353"
+resource "azurerm_resource_group" "savas_rg" {
+  name     = var.rg_name
   location = "West Europe"
 }

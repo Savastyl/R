@@ -1,5 +1,5 @@
 variable "rg_name" {
-    default = "savas5555"
+    default = "savas5dev"
     type = string
   
 }
